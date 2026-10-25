@@ -4,8 +4,8 @@ ArKnights Perch 是面向《明日方舟》世界观的安卓角色对话应用�
 
 | 项目 | 内容 |
 |---|---|
-| 当前版本 | 0.1.2 |
-| 当前安装包 | `ArKnightsPerch-0.1.2.apk` |
+| 当前版本 | 0.1.3 |
+| 当前安装包 | `ArKnightsPerch-0.1.3.apk` |
 | 包名 | `cn.wisadelz.perch` |
 | 系统要求 | Android 8.0（API 26）及以上 |
 | 处理器架构 | arm64-v8a / x86_64（单包合并） |
